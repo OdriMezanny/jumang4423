@@ -20,4 +20,4 @@
 - [soundcloud](https://soundcloud.com/jumanjixxx)
 - [instagram](https://www.instagram.com/ryomeow/)
 
-![mng](https://media.giphy.com/media/QVmBg63oVK1OT1ybHh/giphy.gif "mng")
+![mng](https://media.giphy.com/media/lkimn9qzL4FCeyc6c/giphy.gif "mng")
