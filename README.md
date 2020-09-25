@@ -1,5 +1,4 @@
-## what me nerd do normally
-
+## but what this nerd do normally?
 - web thingy
   - html&css
   - javascript&typescript
@@ -9,14 +8,11 @@
   - JUCE Library(written in latest c++)
   - Max&PureData
   - faust(not really doe)
-
 - other things
   - skateboarding
   - making cringy kawaii some scum shitty songs ([my equipment](https://equipboard.com/cat_does_cat?src=twitter))
   - ass slapping
 
-## links
-
+## scum links
 - [soundcloud](https://soundcloud.com/jumanjixxx)
 - [instagram](https://www.instagram.com/ryomeow/)
-![mng](https://media.giphy.com/media/lkimn9qzL4FCeyc6c/giphy.gif "mng")
