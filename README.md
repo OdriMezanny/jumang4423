@@ -1,4 +1,3 @@
-![mng](https://media.giphy.com/media/lkimn9qzL4FCeyc6c/giphy.gif "mng")
 ## what me nerd do normally
 
 - web thingy
@@ -20,3 +19,4 @@
 
 - [soundcloud](https://soundcloud.com/jumanjixxx)
 - [instagram](https://www.instagram.com/ryomeow/)
+![mng](https://media.giphy.com/media/lkimn9qzL4FCeyc6c/giphy.gif "mng")
