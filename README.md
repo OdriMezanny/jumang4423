@@ -1,4 +1,5 @@
 ## but what this nerd do normally?
+
 - web thingy
   - html&css
   - javascript&typescript
@@ -14,5 +15,6 @@
   - ass slapping
 
 ## scum links
+
 - [soundcloud](https://soundcloud.com/jumanjixxx)
 - [instagram](https://www.instagram.com/ryomeow/)
