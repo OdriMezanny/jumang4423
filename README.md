@@ -1,2 +1,2 @@
 
-![doggy01](https://i.imgur.com/NFTG91I.jpg "doggy01")
+![lain](https://i.imgur.com/LpHmRwa.mp4 "lain")
