@@ -1,4 +1,4 @@
-## but what this nerd do normally?
+## but what does this nerd do normally?
 
 - web thingy
   - html&css
