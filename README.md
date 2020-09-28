@@ -16,7 +16,7 @@
   - skateboarding
   - making cringy kawaii some scum shitty songs ([my equipment](https://equipboard.com/cat_does_cat?src=twitter))
 
-## scum links
+## social links
 
 - [soundcloud](https://soundcloud.com/jumanjixxx)
 - [instagram](https://www.instagram.com/ryomeow/)
