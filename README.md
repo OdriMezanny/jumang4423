@@ -11,7 +11,8 @@
   - JUCE Library(written in latest c++)
   - Max&PureData
   - faust(not really doe)
-- other things
+- other skills
+  - c, c++, java, go, and swift (hsp????)
   - skateboarding
   - making cringy kawaii some scum shitty songs ([my equipment](https://equipboard.com/cat_does_cat?src=twitter))
   - ass slapping
