@@ -15,7 +15,6 @@
   - c, c++, java, go, and swift (hsp????)
   - skateboarding
   - making cringy kawaii some scum shitty songs ([my equipment](https://equipboard.com/cat_does_cat?src=twitter))
-  - ass slapping
 
 ## scum links
 
