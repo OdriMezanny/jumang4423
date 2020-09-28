@@ -1,6 +1,6 @@
 ## but what does this nerd do normally?
 
-- web thingy
+- web
   - html&css
   - javascript&typescript
   - react.js library (useful web front tool that can run on kinda virtual DOM system)
