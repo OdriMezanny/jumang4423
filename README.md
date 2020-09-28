@@ -14,7 +14,7 @@
 - other skills
   - c, c++, java, go, and swift (hsp????)
   - skateboarding
-  - making cringy kawaii some scum shitty songs ([my equipment](https://equipboard.com/cat_does_cat?src=twitter))
+  - making cringy songs ([my equipment](https://equipboard.com/cat_does_cat?src=twitter))
 
 ## social links
 
