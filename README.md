@@ -1,6 +1,6 @@
 ## but what does this nerd do normally?
 - currently learning
-  - nuxt.js
+  - next.js
   - cooking (especially チャーシュー)
 - web
   - html&css
