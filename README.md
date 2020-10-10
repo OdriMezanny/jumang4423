@@ -14,9 +14,10 @@
 - other skills
   - c, c++, java, go, and swift (hsp????)
   - skateboarding
-  - making cringy songs ([my equipment](https://equipboard.com/cat_does_cat?src=twitter))
+  - making cringy songs ([soundcloud](https://soundcloud.com/jumanjixxx))
 
 ## social links
 
 - [soundcloud](https://soundcloud.com/jumanjixxx)
 - [instagram](https://www.instagram.com/ryomeow/)
+- [my equipment](https://equipboard.com/cat_does_cat?src=twitter)
