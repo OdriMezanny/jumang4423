@@ -1,3 +1,5 @@
+![](_design/bk.png)
+
 ## but what does this nerd do normally?
 - currently learning
   - next.js
