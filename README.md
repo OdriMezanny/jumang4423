@@ -2,15 +2,13 @@
 
 ## but what does this nerd do normally?
 - currently learning
-  - next.js
   - cooking (especially チャーシュー)
 - web
   - html&css
   - javascript&typescript
-  - react.js library (useful web front tool that can run on kinda virtual DOM system)
-  - three.js library (to draw 3D model on website)
+  - react.js library around (useful web front tool that can run on kinda virtual DOM system)
 - sound engineering
-  - JUCE Library(written in latest c++)
+  - JUCE Library
   - Max&PureData
   - faust(not really doe)
 - other skills
