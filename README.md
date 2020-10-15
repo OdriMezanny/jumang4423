@@ -1,8 +1,9 @@
 ![](_design/bk.png)
 
 ## but what does this nerd do normally?
-- currently learning
-  - cooking (especially チャーシュー)
+- currently learning & working
+  - cooking (char-siu pork)
+  - making a portfolio site ([jumang potaru](https://github.com/jumang4423/jumang-potaru))
 - web
   - html&css
   - javascript&typescript
