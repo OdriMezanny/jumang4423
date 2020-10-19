@@ -4,6 +4,7 @@
 - currently learning & working
   - cooking (char-siu pork)
   - making a portfolio site ([jumang potaru](https://jumang-potaru.dev))
+  - golang
 - web
   - javascript, typescript
   - react.js, vue.js
