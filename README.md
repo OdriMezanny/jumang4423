@@ -12,6 +12,6 @@
   - JUCE Library, Max, PureData
   - faust(not really doe)
 - other skills
-  - c, c++, java, go, and swift (hsp????)
+  - c, c++, java, golang, and swift (hsp????)
   - skateboarding
   - making cringy songs ([soundcloud](https://soundcloud.com/jumanjixxx))
