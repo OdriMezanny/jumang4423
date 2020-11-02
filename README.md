@@ -3,7 +3,7 @@
 ## but what does this nerd do normally?
 - currently learning & working
   - cooking (char-siu pork)
-  - making a portfolio site ([jumang potaru](https://jumang-potaru.dev))
+  - making a portfolio site
   - rust
 - web
   - javascript, typescript
