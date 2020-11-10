@@ -1,15 +1,15 @@
 ![](_design/bk.png)
 
 ## but what does this nerd do normally?
-- currently learning & working
-  - cooking (char-siu pork)
-  - making a portfolio site
+- learning & working
+  - cook (char-siu pork)
+  - make a portfolio site
   - rust
 - web
-  - javascript, typescript
+  - typescript
   - react.js, vue.js
 - sound engineering
-  - JUCE Library, Max, PureData
+  - juce lib, max, pd
   - faust(not really doe)
 - other skills
   - c, c++, java, golang, and swift (hsp????)
