@@ -1,5 +1,3 @@
-![](_design/bk.png)
-
 ## but what does this nerd do normally?
 - learning & working
   - cook (char-siu pork)
