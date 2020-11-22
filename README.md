@@ -1,8 +1,8 @@
 ## but what does this nerd do normally?
 - learning & working
-  - cook (char-siu pork)
   - make a portfolio site
-  - rust
+  - golang
+  - rust(trendy)
 - web
   - typescript
   - react.js, vue.js
@@ -13,3 +13,4 @@
   - c, c++, java, golang, and swift (hsp????)
   - skateboarding
   - making cringy songs ([soundcloud](https://soundcloud.com/jumanjixxx))
+  - cook (char-siu pork)
