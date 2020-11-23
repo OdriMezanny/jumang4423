@@ -2,11 +2,11 @@
 
 ```
 const jumang = {
-    pronouns: "He" | "Him",
-    code: ["Go", "C++", "Typescript", "Swift", "max"],
+    pronouns: "he" | "him",
+    code: ["go", "c++", "typescript", "swift", "max"],
     askMeAbout: ["web dev", "sound engineering", "skateboard", "cook"],
     technologies: {
-        TypeScript: ["React JS"],
+        TypeScript: ["react js"],
         backEnd: {
             go: ["currently learning"],
         },
