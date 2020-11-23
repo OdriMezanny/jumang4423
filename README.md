@@ -1,16 +1,18 @@
-## but what does this nerd do normally? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-- learning & working
-  - make a portfolio site
-  - golang
-  - rust(trendy)
-- web
-  - typescript
-  - react.js, vue.js
-- sound engineering
-  - juce lib, max, pd
-  - faust(not really doe)
-- other skills
-  - c, c++, java, golang, and swift (hsp????)
-  - skateboarding
-  - making cringy songs ([soundcloud](https://soundcloud.com/jumanjixxx))
-  - cook (char-siu pork)
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> But what does this nerd do normally...
+
+
+```
+const jumang = {
+    pronouns: "He" | "Him",
+    code: ["Go", "C++", "Typescript", "Swift", "max"],
+    askMeAbout: ["web dev", "sound engineering", "skateboard", "cook"],
+    technologies: {
+        TypeScript: ["React JS"],
+        backEnd: {
+            go: ["currently learning"],
+        },
+    },
+    currentFocus: "learning golang for backend, also tech conbine with sound and DL",
+    funFact: "love ramen-jiro"
+};
+```
