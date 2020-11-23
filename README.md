@@ -3,7 +3,7 @@
 ```
 const jumang = {
     pronouns: "he" | "him",
-    code: ["go", "c++", "typescript", "swift", "max"],
+    code: ["go", "c++", "javascript", "swift", "max"],
     askMeAbout: ["web dev", "sound engineering", "skateboard", "cook"],
     technologies: {
         TypeScript: ["react js"],
