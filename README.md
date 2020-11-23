@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## but what does this nerd do normally?
 - learning & working
   - make a portfolio site
