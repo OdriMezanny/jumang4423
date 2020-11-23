@@ -15,5 +15,4 @@ const jumang = {
     funFact: "love ramen-jiro"
 };
 ```
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jumang4423)](https://github.com/jumang4423)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jumang4423)](https://github.com/anuraghazra/github-readme-stats)
