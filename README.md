@@ -1,5 +1,4 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumang4423&layout=compact&hide=GLSL)](https://github.com/jumang4423)
 
 ## but what does this nerd do normally?
 - learning & working
