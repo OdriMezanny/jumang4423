@@ -15,4 +15,5 @@ const jumang = {
     funFact: "love ramen-jiro"
 };
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumang4423&layout=compact&hide=GLSL)](https://github.com/jumang4423)
+
+[![jumang top langs](https://github-readme-stats.jumang4423.vercel.app/api/top-langs/?username=jumang4423&layout=compact&hide=GLSL)](https://github.com/jumang4423)
