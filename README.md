@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="75"> But what does this nerd do normally
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> But what does this nerd do normally
 
 ```
 const jumang = {
