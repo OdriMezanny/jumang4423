@@ -16,5 +16,5 @@ const jumang = {
 };
 ```
 
-### <img src="https://media.giphy.com/media/swOZAChEoj8vS/giphy.gif" width="60"> top languages
+### <img src="https://media.giphy.com/media/h7deZA51Ru9pwzlz0C/giphy.gif" width="60"> top languages
 [![Top Langs](https://github-readme-stats-30tckm8s7.vercel.app/api/top-langs/?username=jumang4423&layout=compact&hide=GLSL)](https://github.com/jumang4423)
