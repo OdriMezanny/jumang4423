@@ -1,3 +1,5 @@
+![](https://media.giphy.com/media/l0MYrokk2rXUsebKw/giphy-downsized.gif)
+
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> But what does this nerd do normally
 
 ```
@@ -18,3 +20,4 @@ const jumang = {
 
 ### <img src="https://media.giphy.com/media/h7deZA51Ru9pwzlz0C/giphy.gif" width="50" height="45"> top languages
 [![Top Langs](https://github-readme-stats-30tckm8s7.vercel.app/api/top-langs/?username=jumang4423&layout=compact&hide=GLSL)](https://github.com/jumang4423)
+
