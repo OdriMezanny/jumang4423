@@ -3,15 +3,15 @@
 ```
 const jumang = {
     pronouns: "he" | "him",
-    code: ["go", "c++", "javascript", "swift", "max"],
+    code: ["go", "c++", "typescript", "swift", "max"],
     askMeAbout: ["web dev", "sound engineering", "skateboard", "cook"],
     technologies: {
-        TypeScript: ["react js"],
+        typeScript: ["react js"],
         backEnd: {
             go: ["currently learning"],
         },
     },
-    currentFocus: "learning golang for backend, also tech conbine with sound and DL",
+    currentFocus: "learning golang for backend, also tech combine with sound and dl",
     funFact: "love ramen-jiro"
 };
 ```
