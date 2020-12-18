@@ -3,14 +3,12 @@
 ```
 const jumang = {
     pronouns: "he" | "him",
-    askMeAbout: ["design", "sound engineering", "skateboard", "web development"],
+    born: "28/12/2000",
+    askMeAbout: ["web development", "sound engineering", "designing", "skateboard"],
     code: ["go", "cpp", "typescript", "swift", "max"],
     technologies: {
         typeScript: ["react js"],
-        backEnd: {
-            go: ["currently learning"],
-            nodejs,
-        },
+        backEnd: ["golang", "tsx"],
     },
     currentFocus: "learning tsx for backend, also tech combine with sound and dl",
     funFact: "love ramen-jiro"
