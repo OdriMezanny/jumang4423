@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> what i do
+### <img src="https://media.giphy.com/media/h7deZA51Ru9pwzlz0C/giphy.gif" width="50" height="45"> what i do
 
 ```
 const jumang = {
@@ -15,5 +15,5 @@ const jumang = {
 };
 ```
 
-### <img src="https://media.giphy.com/media/h7deZA51Ru9pwzlz0C/giphy.gif" width="50" height="45"> language i use
-- dead
+<!-- ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> language i use
+- dead -->
