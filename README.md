@@ -10,7 +10,7 @@ const jumang = {
         typeScript: ["react js"],
         backEnd: ["golang", "tsx"],
     },
-    currentFocus: "front, data fuck",
+    currentFocus: "front",
     funFact: "love ramen-jiro"
 };
 ```
