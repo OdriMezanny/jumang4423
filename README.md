@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/h7deZA51Ru9pwzlz0C/giphy.gif" width="40" height="30"> what i do
+### <img src="https://media.giphy.com/media/h7deZA51Ru9pwzlz0C/giphy.gif" width="40" height="30"> what i do normally
 
 ```
 const jumang = {
