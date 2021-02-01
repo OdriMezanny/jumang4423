@@ -4,13 +4,13 @@
 const jumang = {
     pronouns: "he" | "him",
     born: "28/12/2000",
-    askMeAbout: ["web development", "sound engineering", "designing", "skateboard"],
-    code: ["go", "cpp", "typescript", "swift", "max"],
+    askMeAbout: ["web", "sound", "design", "reverse engineering"],
+    code: ["go", "cpp", "typescript", "max"],
     technologies: {
-        typeScript: ["react js"],
-        backEnd: ["golang", "tsx"],
+        typeScript: ["react js", "next.js", "gatsby.js"],
+        backEnd: ["golang", "tsx"m "GCP"],
     },
-    currentFocus: "front",
+    currentFocus: null,
     funFact: "love ramen-jiro"
 };
 ```
