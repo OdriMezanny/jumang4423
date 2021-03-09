@@ -1,4 +1,5 @@
-![psyche](_design/bak.gif)
+![psyche](_design/psyche.gif)
+<h1 align="center"> jumang github repositories</h1>
 
 <!-- ```
 const jumang = {
