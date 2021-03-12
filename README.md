@@ -2,6 +2,13 @@
 
 <h1 align="center"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> jumang repositories <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h1>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jumang4423&repo=jumang-potaru)](jumang-potaru)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jumang4423&repo=gpshr)](gpshr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jumang4423&repo=zenn_things)](zenn-things)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jumang4423&repo=power_tone)](power-tone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jumang4423&repo=puipui_molcar_remake)](puipui_molcar_remake)
+
+
 <!-- ```
 const jumang = {
     pronouns: "he" | "him",
