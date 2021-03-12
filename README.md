@@ -6,7 +6,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jumang4423&repo=gpshr)](gpshr)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jumang4423&repo=zenn_things)](zenn-things)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jumang4423&repo=power_tone)](power-tone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jumang4423&repo=puipui_molcar_remake)](puipui_molcar_remake)
 
 
 <!-- ```
