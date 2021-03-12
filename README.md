@@ -1,5 +1,6 @@
-![psyche](_design/psy.gif)
 <h1 align="center"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> jumang repositories <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h1>
+
+![psyche](_design/psy.gif)
 
 <!-- ```
 const jumang = {
